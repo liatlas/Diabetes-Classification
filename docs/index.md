@@ -8,6 +8,8 @@ https://www.kaggle.com/competitions/playground-series-s5e12
 
 ## Notebooks
 
+### 12_17_25_initial_analysis
+
 ## Models
 
 ## References
